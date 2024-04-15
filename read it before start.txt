@@ -1,0 +1,34 @@
+this is the server code for the react e-commerce 
+
+
+all you have to do is simple go to inside server file and npm install and start and if youre using react js go to client folder in it and npm install and stasrt 
+
+=============================
+
+The total code is in Typescript react and functional components of react 
+ive already configure the middle ware and needed softwares of basic to creation of components and access like store ,middle ware too
+
+if angular configure the folder as per usage r else copy server code and make a interaction betwen backend and frontend
+
+==============================================================================================================
+
+back end
+==========
+
+file path :  /e-commerce/server/.env
+
+MONGO_DB_CLOUD_URL= USE YOUR DB URL OK DONT USE MINE SO COFIGURE WITH YOUR URL IN THE .env FILE 
+MONGO_DB_DATABASE=React-E-Commerce
+
+
+in .env file of the server side please do use your own db and dont use mine bcoz it may lead to code error and and deletion of db 
+
+create a mongo cloud db and configure adn connect with it through mongo compass gui tool 
+
+note 
+notifying one more time  dont use my db which is in .env file link of  of confugure i always with your mngo url ok 
+
+it is basic e commerce of the website 
+all you have to like configure sizes ,color and all do changes in product models ,schemas and configure as you like 
+
+=================================================================================================================
