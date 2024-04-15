@@ -1,0 +1,1 @@
+Server side fully Configure with the basicfunctionality of e commerce so configure it according to your rquiremnt  for front alosi ive configure for only react js with ts ,store,reducer,etc., all you have to do is configure reducers and made a components interactions 
